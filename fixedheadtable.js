@@ -1,7 +1,7 @@
 /*
  * id : id of special table
  * arrWidth : array, a series of numbers for each th in each tr
- * bodyHeight : the height of the tbody
+ * bodyHeight : the height of tbody
  */
 function fixedHeadTable(id,arrWidth,bodyHeight){
 	id = '#' + id;	    	
